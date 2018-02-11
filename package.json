@@ -1,0 +1,14 @@
+{
+  "name": "todo-list-api",
+  "version": "1.0.0",
+  "description": "API for Todo List app.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "start:dev": "nodemon src/server.js",
+    "test": "mocha --exit"
+  },
+  "keywords": [],
+  "author": "James McCormack",
+  "license": "MIT"
+}
